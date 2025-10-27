@@ -1,4 +1,4 @@
-# ⚡ Web Application Entry Points — Simplified Examples + Related Vulnerabilities
+## ⚡ Web Application Entry Points — Simplified Examples + Related Vulnerabilities
 
 A **quick reference guide** showing where and how users or systems can interact with your web app — from frontend interfaces like forms or APIs to backend mechanisms like webhooks or message queues.
 Each item includes a **real-world example** and **related vulnerabilities**.
