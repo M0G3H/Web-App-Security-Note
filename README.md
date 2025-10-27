@@ -4,6 +4,7 @@ A **quick reference guide** showing where and how users or systems can interact 
 Each item includes a **real-world example** and **related vulnerabilities**.
 
 You can read this Sunject in this link
+ 
  🔗https://medium.com/@M0G3H/web-application-entry-points-simplified-examples-related-vulnerabilities-c8648e529d76
 ---
 
