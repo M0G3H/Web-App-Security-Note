@@ -7,7 +7,7 @@ Each item includes a **real-world example** and **related vulnerabilities**.
 
 ## 📚 Table of Contents
 
-* [🖥️ Frontend Entry Points](#-frontend-entry-points)
+* [🖥️ Frontend Entry Points](#%EF%B8%8F-frontend-entry-points)
 * [🧩 Additional Frontend Entry Points](#-additional-frontend-entry-points)
 * [🛠️ Backend Entry Points](#-backend-entry-points)
 * [⚙️ Additional Backend Entry Points](#-additional-backend-entry-points)
